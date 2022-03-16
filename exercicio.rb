@@ -6,4 +6,3 @@ else
 	puts "A letra ''#{x}'' é uma consoante"
 end
 
-#
