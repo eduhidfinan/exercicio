@@ -5,3 +5,5 @@ if x == "a";"e";"i";"o";"u";"A";"E";"I";"O";"U"
 else 
 	puts "A letra ''#{x}'' é uma consoante"
 end
+
+#
